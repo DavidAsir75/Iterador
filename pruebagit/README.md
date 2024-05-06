@@ -44,6 +44,5 @@ for (String elemento : miSorteador) { // Para cada 'elemento' de tipo 'String' e
 ```
 ## Diagrama de clases
 
-![Diagrama de clases](src/uml/clases-iterable-iterator-java.png)
+![Diagrama de clases](src/clases-iterable-iterator-java.png)
 
-Proyecto realizado con NetBeans 8.2. Compatible con Eclipse.
