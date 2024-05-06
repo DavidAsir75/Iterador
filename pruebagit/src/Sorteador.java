@@ -10,9 +10,7 @@ import java.util.Random;
  * Colección que permite ingresar elementos de cualquier tipo y devolverlos en
    orden aleatorio.
  * 
- * @author Charly Cimino Aprendé más Java en mi canal:
- * https://www.youtube.com/c/CharlyCimino Encontrá más código en mi repo de
- * GitHub: https://github.com/CharlyCimino
+ * @author David
  * @param <T> Tipo de los elementos del sorteador
  */
 public class Sorteador<T> implements Iterable<T> {
