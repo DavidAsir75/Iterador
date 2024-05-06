@@ -44,5 +44,5 @@ for (String elemento : miSorteador) { // Para cada 'elemento' de tipo 'String' e
 ```
 ## Diagrama de clases
 
-![Diagrama de clases](src/clases-iterable-iterator-java.png)
+![Diagrama de clases](clases-iterable-iterator-java.png)
 
